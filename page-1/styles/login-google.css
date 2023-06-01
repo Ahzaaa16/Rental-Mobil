@@ -1,0 +1,206 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.login-google-WdL {
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.login-google-WdL .group-36-G6i {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-color: #ffffff;
+}
+.login-google-WdL .group-36-G6i .google-QCv {
+  width: 50.7332rem;
+  height: 15.1728rem;
+  position: absolute;
+  left: 48.474rem;
+  top: 13.8233rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.login-google-WdL .group-36-G6i .google-QCv .vector-KKt {
+  margin: 0rem 0.774rem 3.427rem 0rem;
+  width: 12.5718rem;
+  height: 11.746rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-google-WdL .group-36-G6i .google-QCv .vector-q3L {
+  margin: 0.84rem 0.762rem 0rem 0rem;
+  width: 8.2738rem;
+  height: 7.5356rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-google-WdL .group-36-G6i .google-QCv .vector-MnN {
+  margin: 0.879rem 0.755rem 0rem 0rem;
+  width: 8.2738rem;
+  height: 7.53rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-google-WdL .group-36-G6i .google-QCv .vector-VNn {
+  margin: 4.255rem 1.09rem 0rem 0rem;
+  width: 7.9272rem;
+  height: 10.9173rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-google-WdL .group-36-G6i .google-QCv .vector-7QA {
+  margin: 0rem 0.886rem 3.303rem 0rem;
+  width: 1.7835rem;
+  height: 11.0246rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-google-WdL .group-36-G6i .google-QCv .vector-E7Q {
+  margin-top: 0.8794rem;
+  width: 7.636rem;
+  height: 7.5301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-google-WdL .group-36-G6i .login-NDc {
+  width: 12rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 65.4rem;
+  top: 29rem;
+  font-size: 4.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-google-WdL .group-36-G6i .lanjutkan-ke-gmail-TF4 {
+  width: 23.5rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 59.3rem;
+  top: 37.7rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-google-WdL .group-36-G6i .frame-39-ZJ6 {
+  box-sizing: border-box;
+  padding: 1.6rem 3.4rem 1.7rem 3.4rem;
+  width: 120.8rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 46rem;
+  overflow: hidden;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #8e8a8a;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #8e8a8a;
+  background-color: #ffffff;
+}
+.login-google-WdL .group-36-G6i .lupa-email-zuC {
+  width: 13.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 55.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #3686f7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-google-WdL .group-36-G6i .auto-group-aq5c-VLA {
+  width: 120.8rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 75.4rem;
+  display: flex;
+  align-items: flex-end;
+}
+.login-google-WdL .group-36-G6i .auto-group-aq5c-VLA .buat-akun-1ZQ {
+  margin: 0rem 71.9rem 0.6rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #3686f7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-google-WdL .group-36-G6i .auto-group-aq5c-VLA .frame-38-8P8 {
+  width: 36.9rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #3478e5;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.login-google-WdL .group-36-G6i .bukan-komputer-anda-gunakan-mode-tamu-untuk-login-secara-pribadi-pWr {
+  width: 83.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 61.9rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #a3a3ab;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-google-WdL .group-36-G6i .pelajari-selengkapnya-6zA {
+  width: 25.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 64.9rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #3686f7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}

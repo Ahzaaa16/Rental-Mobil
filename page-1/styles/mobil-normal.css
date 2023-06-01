@@ -1,0 +1,6632 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.mobil-normal-dLa {
+  width: 100%;
+  height: 361.3rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #2b2222;
+  border-bottom: dashed 0.6rem #323131;
+  box-sizing: border-box;
+}
+.mobil-normal-dLa .profile-iAz {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 122.2rem;
+  top: 5.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .group-x5L {
+  width: 8.8rem;
+  height: 8.5645rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.289rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-113-59x {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.mobil-normal-dLa .home-X1x {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .group-38-cp6 {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.mobil-normal-dLa .group-38-cp6 .group-37-1ze {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mobil-normal-dLa .group-38-cp6 .evira-hMg {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobil-normal-dLa .line-50-ypz {
+  width: 144rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.mobil-normal-dLa .rectangle-126-JcN {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.mobil-normal-dLa .ellipse-11-op2 {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .ellipse-12-vte {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .ellipse-13-epe {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .item-1-y6E {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-GLE {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-3-Xmx {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .line-51-Ct6 {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.mobil-normal-dLa .line-52-jNE {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.mobil-normal-dLa .choose-a-car-fmg {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .make-a-deal-ZcA {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .booking-car-4op {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-127-XxJ {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-129-rUn {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-128-NCE {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-130-5cS {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .line-53-Ch4 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-55-KFt {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-54-FQS {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-56-nQN {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .rectangle-131-7hY {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-132-dvn {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-133-AQv {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .line-57-VCJ {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-58-De6 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 346.5rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .booking-car-w4J {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .image-9-EZC {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.mobil-normal-dLa .image-10-k1k {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.mobil-normal-dLa .rectangle-134-Tgr {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.mobil-normal-dLa .rectangle-135-b2N {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.mobil-normal-dLa .normal-WQE {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-DpS {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-5re {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .special-YVL {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-116-DbU {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .select-7B4 {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-65-oJn {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-HUr {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-66-CLv {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .material-symbols-person-UpE {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .item-6-CVL {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-tNA {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .innova-reborn-mwk {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-eVk {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-Y5L {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-dMg {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-WgN {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp439000-day-ndt {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-5cz {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-yCa {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-Fft {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-w2v {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-136-2KG {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-139-WkE {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-142-1wt {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-145-iLW {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-148-DYA {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .select-XHx {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-DwU {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-71G {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-nt6 {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-hVG {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-137-RAN {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-140-L2S {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-143-byx {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-146-i2z {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-149-QwQ {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-KYa {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-2xn {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-k86 {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-g1k {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-oMG {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-138-vRt {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-141-2zi {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-144-wrn {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-147-FMg {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-150-ADk {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .material-symbols-person-sdx {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-Q86 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-iuU {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-3wk {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-jTC {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .item-6-4Ea {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-ZBL {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-fEN {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-Nea {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-5Yz {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-Bc2 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-JAr {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-cBY {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-XJW {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-ETp {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .image-8-YUW {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.mobil-normal-dLa .rectangle-151-4Sr {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.mobil-normal-dLa .profile-Cox {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 122.2rem;
+  top: 5.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .group-bLJ {
+  width: 8.8rem;
+  height: 8.5645rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.289rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-152-tKQ {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.mobil-normal-dLa .home-BZQ {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .group-39-exn {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.mobil-normal-dLa .group-39-exn .group-37-Y2a {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mobil-normal-dLa .group-39-exn .evira-Rs4 {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobil-normal-dLa .line-60-k8e {
+  width: 144rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.mobil-normal-dLa .rectangle-153-3dY {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.mobil-normal-dLa .ellipse-14-jFU {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .ellipse-15-q3c {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .ellipse-16-Jxn {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .item-1-BWn {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-fRx {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-3-AtW {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .line-61-5ka {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.mobil-normal-dLa .line-62-D66 {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.mobil-normal-dLa .choose-a-car-YeA {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .make-a-deal-F2n {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .booking-car-kES {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-154-roG {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-155-BKk {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-156-W78 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-157-Rjt {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .line-63-9ft {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-64-HGJ {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-65-DQr {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-66-Yi2 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .rectangle-158-5hx {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-159-odx {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-160-8RL {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .line-67-1k2 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-68-x9U {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 346.5rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .booking-car-UtW {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .image-11-Pka {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.mobil-normal-dLa .image-12-K8S {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.mobil-normal-dLa .rectangle-161-34S {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.mobil-normal-dLa .rectangle-162-N6i {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.mobil-normal-dLa .normal-VBL {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-CLe {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-hoC {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .special-obL {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-163-vAA {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .select-2yt {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-164-YhL {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-fGA {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-165-atv {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .material-symbols-person-J4E {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .item-6-DS6 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-Kzv {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .innova-reborn-SJr {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-Ycn {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-TDx {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-N62 {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-Uer {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp439000-day-bDg {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-J86 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-1HQ {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-WV4 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-cY6 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-166-WdU {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-167-cwQ {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-168-XoU {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-169-TBL {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-170-BNE {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .select-hbU {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-DJv {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-iWa {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-cbx {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-8KQ {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-171-qzW {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-172-A1C {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-173-sRQ {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-174-BS6 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-175-6JA {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-mfC {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-6Sa {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-cfp {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-k1L {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-53c {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-176-bne {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-177-KCr {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-178-E4v {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-179-wEE {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-180-Swg {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .material-symbols-person-ZWW {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-gLE {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-CJa {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-X5x {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-rP8 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .item-6-nGn {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-Vgz {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-PGa {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-uEv {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-DWW {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-8dU {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-3Ee {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-xcW {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-5BL {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-ATg {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .image-13-UjG {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.mobil-normal-dLa .rectangle-181-oFk {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.mobil-normal-dLa .profile-LmU {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 119.3rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .group-4Bg {
+  width: 8.8rem;
+  height: 8.5645rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.289rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-182-aQv {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.mobil-normal-dLa .home-GYe {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .group-40-NLn {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.mobil-normal-dLa .group-40-NLn .group-37-Uuc {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mobil-normal-dLa .group-40-NLn .evira-Q2a {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobil-normal-dLa .line-69-vmc {
+  width: 144rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.mobil-normal-dLa .rectangle-183-4cv {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.mobil-normal-dLa .ellipse-17-zFg {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .ellipse-18-v9L {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .ellipse-19-SdU {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .item-1-AZU {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-fm8 {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-3-ymp {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .line-70-6Le {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.mobil-normal-dLa .line-71-d5g {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.mobil-normal-dLa .choose-a-car-mBt {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .make-a-deal-rDL {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .booking-car-9y8 {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-184-FmG {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-185-9Lr {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-186-FPt {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-187-B2e {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .line-72-Vp2 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-73-dfL {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-74-xSi {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-75-638 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .rectangle-188-RLJ {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-189-Ly4 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-190-Gri {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .line-76-PwL {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-77-XXk {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 346.5rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .booking-car-TgJ {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.9rem;
+  top: 5.35rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .image-14-mgz {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.mobil-normal-dLa .image-15-hKk {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.mobil-normal-dLa .rectangle-191-1rE {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.mobil-normal-dLa .rectangle-192-Y5U {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.mobil-normal-dLa .normal-fQz {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 99.5rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-NaJ {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-5jc {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .special-n8E {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-193-s9g {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .select-b5g {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-194-heW {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-Qop {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-195-jLJ {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .material-symbols-person-F3k {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .item-6-Zq8 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-sav {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .innova-reborn-akE {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-JAS {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-z3G {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-teS {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-bok {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp439000-day-KDx {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-Rnn {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-vzS {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-ddx {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-hNv {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-196-D6N {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-197-vmU {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-198-Szi {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-199-a5L {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-200-hQr {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .select-R5x {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-48v {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-Mti {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-ss4 {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-zRt {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-201-6zi {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-202-bAn {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-203-uSN {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-204-d7U {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-205-8a2 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-eHU {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-aB8 {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-uDQ {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-2op {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-Mr6 {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-206-t5L {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-207-CLv {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-208-WcW {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-209-a6a {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-210-Uxe {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .material-symbols-person-CNr {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-XR8 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-3uG {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-aeJ {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-uAn {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .item-6-ETx {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-YjY {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-ena {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-m6W {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-UFp {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-APY {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-UQE {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-nfp {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-6wQ {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-1Hg {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .image-16-hwC {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.mobil-normal-dLa .rectangle-211-DuY {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.mobil-normal-dLa .profile-xs8 {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 122.2rem;
+  top: 5.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .group-GN2 {
+  width: 8.8rem;
+  height: 8.5645rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.289rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-212-PxS {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.mobil-normal-dLa .home-ijp {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .group-41-omG {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.mobil-normal-dLa .group-41-omG .group-37-w6n {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mobil-normal-dLa .group-41-omG .evira-rUe {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobil-normal-dLa .line-78-zar {
+  width: 144rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.mobil-normal-dLa .rectangle-213-Xan {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.mobil-normal-dLa .ellipse-20-FWn {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .ellipse-21-yhg {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .ellipse-22-Jzr {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .item-1-3Se {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-MiE {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-3-UXx {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .line-79-bMg {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.mobil-normal-dLa .line-80-L4N {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.mobil-normal-dLa .choose-a-car-fcS {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .make-a-deal-aUW {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .booking-car-5gA {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-214-zHL {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-215-X2N {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-216-3WW {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-217-aFY {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .line-81-tn2 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-82-pva {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-83-Mfc {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-84-67Q {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .rectangle-218-cLe {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-219-LGe {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-220-TcA {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .line-85-kbG {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-86-ruC {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 346.5rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .booking-car-N6r {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .image-17-3Cz {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.mobil-normal-dLa .image-18-xKx {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.mobil-normal-dLa .rectangle-221-H7L {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.mobil-normal-dLa .rectangle-222-Ck6 {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.mobil-normal-dLa .normal-8dk {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-qYA {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-YhU {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .special-ekW {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-223-ZsU {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .select-t94 {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-224-zxn {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-Ww8 {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-225-EcE {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .material-symbols-person-Kdg {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .item-6-Eke {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-kU6 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .innova-reborn-sHp {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-NkN {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-gm4 {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-oKt {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-JXY {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp439000-day-yNn {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-gnz {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-bQA {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-6bp {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-om8 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-226-WfY {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-227-EbY {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-228-MgA {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-229-UVt {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-230-o2N {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .select-KFc {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-py4 {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-Wqt {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-EG6 {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-jie {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-231-roG {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-232-yN6 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-233-UZk {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-234-Bj4 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-235-gQv {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-nir {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-Wuk {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-SoQ {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-AjQ {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-UEJ {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-236-Ps4 {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-237-hsk {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-238-29L {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-239-Xrn {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-240-r8N {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .material-symbols-person-kzS {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-t54 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-Qp6 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-Y9c {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-47x {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .item-6-ARt {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-3Vg {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-ZD8 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-g2r {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-nbg {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-hTk {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-cai {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-7nN {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-o9Q {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-WJi {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .image-19-RRg {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.mobil-normal-dLa .rectangle-241-kD4 {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.mobil-normal-dLa .profile-TtA {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 122.2rem;
+  top: 5.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .group-mtr {
+  width: 8.8rem;
+  height: 8.5645rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.289rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-242-Jtn {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.mobil-normal-dLa .home-EXY {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .group-42-YYE {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.mobil-normal-dLa .group-42-YYE .group-37-fsk {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mobil-normal-dLa .group-42-YYE .evira-Br6 {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobil-normal-dLa .line-88-rhL {
+  width: 144rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.mobil-normal-dLa .rectangle-243-o6n {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.mobil-normal-dLa .ellipse-23-ijY {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .ellipse-24-FjU {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .ellipse-25-kRL {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .item-1-4wp {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-a9U {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-3-seN {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .line-89-ky4 {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.mobil-normal-dLa .line-90-tZU {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.mobil-normal-dLa .choose-a-car-Dbk {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .make-a-deal-i2i {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .booking-car-opr {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-244-igv {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-245-qmY {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-246-MUz {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-247-rRk {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .line-91-yFU {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-92-6qt {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-93-SPx {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-94-NoQ {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .rectangle-248-hqg {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-249-W2S {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-250-2Fg {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .line-95-LXG {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-96-UdU {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 346.5rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .booking-car-17c {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .image-20-6Px {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.mobil-normal-dLa .image-21-DDg {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.mobil-normal-dLa .rectangle-251-85k {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.mobil-normal-dLa .rectangle-252-3iW {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.mobil-normal-dLa .normal-B42 {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-HMx {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-zGN {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .special-fdQ {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-253-ye6 {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .select-JRU {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-254-DHY {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-KrN {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-255-Qsp {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .material-symbols-person-8J2 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .item-6-qiE {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-Yce {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .innova-reborn-TDp {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-vt6 {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-dXc {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-wYJ {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-avanza-4N2 {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp439000-day-yUz {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-hA6 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-NX8 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-fFL {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-yG2 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-256-Uia {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-257-boC {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-258-KjC {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-259-3QJ {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-260-NBg {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .select-HZY {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-oGz {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-7oU {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-e2i {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-8Tg {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-261-p5c {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-262-jCa {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-263-Ev2 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-264-Yvi {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-265-4u4 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-asQ {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-JYW {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-2zJ {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-AKp {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-gox {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-266-15Y {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-267-vCW {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-268-c5L {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-269-ieA {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-270-dWE {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .material-symbols-person-AuU {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-h8i {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-2Az {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-jbC {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-4dU {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .item-6-zGE {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-6KG {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-ydx {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-HuY {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-nLW {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-uAE {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-1yx {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-8Yn {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-Eri {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-xGv {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .image-22-fx2 {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.mobil-normal-dLa .rectangle-271-zUW {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.mobil-normal-dLa .profile-XzE {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 119.3rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .group-1Pc {
+  width: 8.8rem;
+  height: 8.5645rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.289rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-272-9Ev {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.mobil-normal-dLa .home-4cn {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .group-43-nHt {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.mobil-normal-dLa .group-43-nHt .group-37-Jn2 {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mobil-normal-dLa .group-43-nHt .evira-2T8 {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobil-normal-dLa .line-97-ktv {
+  width: 144rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.mobil-normal-dLa .rectangle-273-hJN {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.mobil-normal-dLa .ellipse-26-REN {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #887070;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .ellipse-28-Ls8 {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-normal-dLa .item-1-Gkn {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-3-yQJ {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .line-98-4ge {
+  width: 83rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.4rem;
+  background-color: #000000;
+}
+.mobil-normal-dLa .choose-a-car-bga {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .booking-car-Tin {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-274-AdC {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-275-tp6 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-276-pSr {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-277-9EE {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .line-100-57t {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-101-QR4 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-102-LpW {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-103-Uvi {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .rectangle-278-ayk {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .rectangle-279-v22 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-normal-dLa .line-104-F4J {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .line-105-Bie {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 346.5rem;
+  background-color: #323131;
+}
+.mobil-normal-dLa .booking-car-886 {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.9rem;
+  top: 5.15rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .image-23-EB8 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.mobil-normal-dLa .image-24-xN2 {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.mobil-normal-dLa .rectangle-281-tFg {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.mobil-normal-dLa .rectangle-282-otS {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.mobil-normal-dLa .normal-X3k {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 99.5rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .grand-new-avanza-oX4 {
+  width: 29.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-7Gr {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .special-9zE {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-283-EVt {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .select-kj8 {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-284-sYr {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-BpS {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-285-WLv {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .material-symbols-person-DWE {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .item-6-9Pt {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-3EN {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .innova-reborn-wqY {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .daihatsu-xenia-Tot {
+  width: 23.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .suzuki-ertiga-xVk {
+  width: 20.8rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .all-new-pajero-sMp {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .toyota-fortune-yfk {
+  width: 23.7rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp439000-day-5in {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp367500-day-9yY {
+  width: 33.6rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp300500-day-4Kp {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp1323000-day-mV8 {
+  width: 36.9rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rp980000-day-5ki {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-286-PWW {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-287-uze {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-288-2ZU {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-289-M5x {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .rectangle-290-4FG {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-normal-dLa .select-yt2 {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-6Sr {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-QiS {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-hxS {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .select-cpW {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .rectangle-291-Kiv {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-292-qhG {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-293-MQi {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-294-G1t {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-295-aHU {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-gLW {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-C3x {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-X6E {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-r8W {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .fa6-solid-suitcase-rolling-yD8 {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .rectangle-296-h98 {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-297-Q3Y {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-298-7Cr {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-299-Dmg {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .rectangle-300-jEE {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-normal-dLa .material-symbols-person-r3x {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-NY6 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-gog {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-Cn2 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .material-symbols-person-LNS {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-normal-dLa .item-6-4JS {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-N4E {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-GfQ {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-BXU {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-6-gj8 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-Q9L {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-urn {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-2Ai {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-j58 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .item-2-Dkz {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-normal-dLa .image-25-LKp {
+  width: 132.6rem;
+  height: 37.9rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}

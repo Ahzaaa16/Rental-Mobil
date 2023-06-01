@@ -1,0 +1,6145 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.toyota-fourtuner-Mtr {
+  width: 100%;
+  height: 334.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk {
+  width: 100%;
+  height: 387.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #2b2222;
+  border-bottom: dashed 0.6rem #323131;
+  box-sizing: border-box;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .profile-2Qe {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 122.2rem;
+  top: 5.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-69c {
+  width: 8.8rem;
+  height: 9.1761rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.5239rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-113-pbQ {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .home-wR8 {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-38-FAv {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-38-FAv .group-37-mQA {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-38-FAv .evira-sTC {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-50-obk {
+  width: 143.9999rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-126-wCA {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-11-s5p {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-12-nyU {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-13-KCi {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-1-qgr {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-Ldc {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-3-SwY {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-51-xut {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-52-hMg {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .choose-a-car-S4N {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .make-a-deal-j3U {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .booking-car-SCn {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-127-kjG {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-129-HDQ {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-128-19Q {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-130-wHx {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-53-TGJ {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-55-Pfk {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-54-iT8 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-56-TQi {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-131-PpA {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-132-j7L {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-133-eEJ {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-57-a7x {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .booking-car-WXQ {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-9-d6E {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-10-M2E {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-134-sFU {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-135-ndL {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .normal-iWz {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-RwC {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-w8r {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .special-SbQ {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-116-m7t {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-sgi {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-65-Pf4 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-hve {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-66-EQn {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-Lyc {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-5AW {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-PBC {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .innova-reborn-ss4 {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-NYv {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-t1U {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-C2A {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-W2r {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp439000-day-cbg {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-vcN {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-qUS {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-wXU {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-34i {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-136-9dY {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-139-sJe {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-142-C62 {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-145-7in {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-148-EoQ {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-N8v {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-HFt {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-PZp {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-uHG {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-cxN {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-137-vy4 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-140-SgW {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-143-mCz {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-146-gKx {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-149-Q14 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-i1k {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-342 {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-APY {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-JEr {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-2ge {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-138-xaJ {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-141-fjc {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-144-z1C {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-147-VyY {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-150-1S6 {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-8Wi {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-TYz {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-nbG {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-hy8 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-drn {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-y9x {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-sm8 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-bBL {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-WJJ {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-21k {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-XjC {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-FQJ {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-AXG {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-H66 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-Pev {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-8-JWz {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-151-d3U {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .profile-AZC {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 122.2rem;
+  top: 5.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-fF4 {
+  width: 8.8rem;
+  height: 9.1761rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.5239rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-152-nqU {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .home-Jop {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-39-1y8 {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-39-1y8 .group-37-kQv {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-39-1y8 .evira-fGz {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-60-CGv {
+  width: 143.9999rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-153-8gN {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-14-4K8 {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-15-b4A {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-16-iea {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-1-T6N {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-Zv6 {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-3-tBg {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-61-PPL {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-62-vPG {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .choose-a-car-s3c {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .make-a-deal-Zx2 {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .booking-car-gWr {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-154-oLa {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-155-jEE {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-156-rZk {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-157-b1Y {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-63-XA6 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-64-eEi {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-65-NwQ {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-66-ikN {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-158-ee2 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-159-ygJ {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-160-JTg {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-67-E6S {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .booking-car-9jC {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-11-TUz {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-12-apW {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-161-urn {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-162-qEe {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .normal-ZgS {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-sh8 {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-b7L {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .special-VyQ {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-163-pEz {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-LDL {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-164-FLJ {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-xkW {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-165-gwQ {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-QMc {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-KjU {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-EbY {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .innova-reborn-MRG {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-FWe {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-ANi {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-GwY {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-yLA {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp439000-day-Gq4 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-Nt6 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-t5k {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-nwp {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-uFk {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-166-QyC {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-167-Lbx {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-168-53k {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-169-Q62 {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-170-isQ {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-f1x {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-AzJ {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-5La {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-aHL {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-HhY {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-171-oA6 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-172-i2A {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-173-ctE {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-174-jCA {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-175-eK8 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-A2a {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-V4r {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-QxW {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-yu8 {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-7VY {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-176-qwL {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-177-Men {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-178-GWr {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-179-myQ {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-180-VPc {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-1Mx {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-vjp {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-4LE {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-apN {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-Wi2 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-3hx {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-xK8 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-Gqc {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-Nte {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-63x {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-oDG {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-v2z {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-RkS {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-jm8 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-42i {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-13-y9g {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-181-tnS {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .profile-qhg {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 119.3rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-Yrz {
+  width: 8.8rem;
+  height: 9.1761rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.5239rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-182-sPU {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .home-ziz {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-40-g62 {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-40-g62 .group-37-CKG {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-40-g62 .evira-7SE {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-69-FHY {
+  width: 143.9999rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-183-Nd4 {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-17-WDU {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-18-E9U {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-19-ZSe {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-1-h34 {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-bu8 {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-3-76n {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-70-1xr {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-71-jtr {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .choose-a-car-sVG {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .make-a-deal-aPg {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .booking-car-HYz {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-184-zTQ {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-185-iPQ {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-186-EMk {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-187-xHk {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-72-UG6 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-73-Q9k {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-74-jhp {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-75-sp2 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-188-1QS {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-189-LSi {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-190-4tW {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-76-oLJ {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .booking-car-vvi {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.9rem;
+  top: 5.35rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-14-S8N {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-15-mAe {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-191-h4J {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-192-RW6 {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .normal-xF8 {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 99.5rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-scz {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-P5Y {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .special-6Vk {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-193-R2E {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-8hL {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-194-F1G {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-96e {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-195-s2e {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-Nzz {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-K9Y {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-q7t {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .innova-reborn-jyx {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-4FY {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-mQr {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-gGv {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-PBL {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp439000-day-VkA {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-c46 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-7mY {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-RXL {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-8ge {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-196-ShL {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-197-a2r {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-198-tJS {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-199-Pkz {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-200-X6W {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-3ae {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-N78 {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-sZg {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-zPQ {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-hoc {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-201-cva {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-202-99p {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-203-x7G {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-204-fGa {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-205-a8e {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-Hok {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-QtN {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-YUn {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-smx {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-cDk {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-206-Y7Q {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-207-rNz {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-208-xgv {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-209-sYz {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-210-BZg {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-W6A {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-RU2 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-M6n {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-HFL {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-1h8 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-LjQ {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-ezz {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-NRC {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-GmU {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-njp {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-uZY {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-RXt {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-jYa {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-rNJ {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-ZnW {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-16-gcE {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-211-18i {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .profile-YuL {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 122.2rem;
+  top: 5.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-GaS {
+  width: 8.8rem;
+  height: 9.1761rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.5239rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-212-12E {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .home-ixE {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-41-dpJ {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-41-dpJ .group-37-mQi {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-41-dpJ .evira-gna {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-78-REN {
+  width: 143.9999rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-213-ZLa {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-20-tNr {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-21-d5Y {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-22-xNi {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-1-5y8 {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-zqC {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-3-6tE {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-79-DT4 {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-80-Z18 {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .choose-a-car-VQa {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .make-a-deal-1Nv {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .booking-car-iYE {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-214-Djt {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-215-YXG {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-216-s3k {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-217-zPG {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-81-X8J {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-82-48E {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-83-asG {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-84-XGi {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-218-rpn {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-219-niS {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-220-uo4 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-85-SHC {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .booking-car-yH8 {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-17-5b4 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-18-Cva {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-221-jQi {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-222-G9k {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .normal-bC2 {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-hkr {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-QfG {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .special-7pa {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-223-SM4 {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-AH4 {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-224-Gqt {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-zWz {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-225-ixn {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-3VG {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-y82 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-HeW {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .innova-reborn-Bzn {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-W1U {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-cKQ {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-vL6 {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-ELn {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp439000-day-kK8 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-efQ {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-ZGa {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-GAz {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-Zvn {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-226-5eE {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-227-oKL {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-228-KYa {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-229-FBL {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-230-Zxi {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-hJE {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-DGa {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-vgn {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-qYr {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-kvi {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-231-Gu4 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-232-C22 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-233-pZC {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-234-XyQ {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-235-qz6 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-xYv {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-HLJ {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-QQv {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-LJa {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-rni {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-236-PXk {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-237-tzJ {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-238-Qhk {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-239-iCe {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-240-RMx {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-LUv {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-4A2 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-NgW {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-Jq4 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-3Gr {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-AcN {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-smg {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-PV8 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-Jc6 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-pKY {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-LHt {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-SLv {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-Lx6 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-TWv {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-n3Q {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-19-5YJ {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-241-Q4n {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .profile-Lz2 {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 122.2rem;
+  top: 5.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-Fr6 {
+  width: 8.8rem;
+  height: 9.1761rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.5239rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-242-CFY {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .home-X2v {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-42-pni {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-42-pni .group-37-M1x {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-42-pni .evira-rzJ {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-88-PUS {
+  width: 143.9999rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-243-7vE {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-23-SxW {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-24-vMt {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-25-EtN {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-1-y5G {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-gEa {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-3-Nt6 {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-89-HkA {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-90-R5g {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .choose-a-car-LyL {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .make-a-deal-48e {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .booking-car-knA {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-244-FU2 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-245-Aqt {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-246-Hfc {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-247-odx {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-91-8AS {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-92-TTc {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-93-BeW {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-94-KVp {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-248-TM8 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-249-mci {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-250-thL {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-95-oJW {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .booking-car-jCA {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-20-Eei {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-21-MjL {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-251-Hcz {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-252-Czr {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .normal-XXL {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-ERk {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-LUn {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .special-3PC {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-253-kYW {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-H2e {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-254-myQ {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-GvA {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-255-oQJ {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-uiE {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-RwU {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-YFQ {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .innova-reborn-T7U {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-ZRQ {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-Tmg {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-BBt {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .all-new-avanza-VCa {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp439000-day-QKY {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-iLE {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-q9x {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-M8J {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp300500-day-TSE {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-256-xtn {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-257-gpn {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-258-pAJ {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-259-LPY {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-260-44e {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-P6v {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-Vfk {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-1PC {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-vFG {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .select-2JJ {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-261-Lpn {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-262-Fwk {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-263-AYv {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-264-5ft {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-265-PwU {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-WWJ {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-S94 {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-A54 {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-HQa {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .fa6-solid-suitcase-rolling-15g {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-266-8g6 {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-267-Ez2 {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-268-Mok {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-269-GQv {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-270-Zup {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-HL2 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-cNJ {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-YWr {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-g7G {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .material-symbols-person-QJA {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-w3C {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-quG {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-xiz {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-g9C {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-6-nT8 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-6Tp {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-cBG {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-ik6 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-ETY {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-2-YUE {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-22-FNe {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-271-aQv {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .profile-vUn {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 119.3rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-EkN {
+  width: 8.8rem;
+  height: 9.1761rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.5239rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-272-yT4 {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .home-hdx {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-43-pCn {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-43-pCn .group-37-woC {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-43-pCn .evira-GqU {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-97-p6J {
+  width: 143.9999rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-273-kVk {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-26-Gyt {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .ellipse-28-1Rg {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #575757;
+  border-radius: 4.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-1-926 {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-3-EZL {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-98-LsG {
+  width: 84rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.4rem;
+  background-color: #000000;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .choose-a-car-gAS {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .booking-car-C8n {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .booking-car-6zr {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.9rem;
+  top: 5.15rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-25-R1Y {
+  width: 132.6rem;
+  height: 37.9rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-379-8wY {
+  width: 130.4rem;
+  height: 104.1rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 96.9rem;
+  background-color: #323131;
+  border-radius: 4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-384-4qC {
+  width: 130.4rem;
+  height: 86.8rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 207.6rem;
+  background-color: #323131;
+  border-radius: 4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .image-23-a2r {
+  width: 87.8rem;
+  height: 45.2rem;
+  position: absolute;
+  left: 17.1rem;
+  top: 214.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .toyota-fortuner-VQi {
+  width: 37.5rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 264.5rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rp980000-day-Ca2 {
+  width: 55.2rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 49rem;
+  top: 277.7rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .harga--Jd4 {
+  width: 22.1rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 19rem;
+  top: 278.1rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-48-cte {
+  box-sizing: border-box;
+  padding: 1.5rem 0rem 0.6rem 0rem;
+  width: 19.5rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 109.6rem;
+  top: 218.3rem;
+  border: solid 0.1rem #575757;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-48-cte .group-45-KYA {
+  box-sizing: border-box;
+  padding: 0.7rem 0rem 0.9rem 1.7rem;
+  width: 17rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-48-cte .group-45-KYA .material-symbols-person-r2J {
+  margin: 0.2rem 4.1rem 0rem 0rem;
+  width: 6.8rem;
+  height: 6.2667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-48-cte .group-45-KYA .item-6-NFY {
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-47-sTC {
+  box-sizing: border-box;
+  padding: 1.8rem 2.809rem 0.3rem 2.3rem;
+  width: 19.5rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 108.9rem;
+  top: 241.1rem;
+  border: solid 0.1rem #575757;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-47-sTC .group-46-Nuk {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-47-sTC .group-46-Nuk .fa6-solid-suitcase-rolling-XXk {
+  margin-right: 4.8838rem;
+  width: 5.4069rem;
+  height: 6.7907rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-47-sTC .group-46-Nuk .item-2-41t {
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .masukan-keterangan-A4v {
+  width: 66.3rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 16.4rem;
+  top: 102.9rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .nama-TZp {
+  width: 13.5rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 19.2rem;
+  top: 121.4rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .nama-mobil--Aj8 {
+  width: 30.2rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 18rem;
+  top: 264.8rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .nomor-hp-H34 {
+  width: 23.5rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 19.1rem;
+  top: 135.4rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .tanggal-pengambilan-zCN {
+  width: 50.5rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 19.1rem;
+  top: 147.9rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .tanggal-pengembalian-VQ2 {
+  width: 53.4rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 19.1rem;
+  top: 172rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-380-bhx {
+  width: 73.6rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 20.1rem;
+  top: 156.6rem;
+  background-color: #464242;
+  border-radius: 1rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-381-7wC {
+  width: 73.6rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 20.1rem;
+  top: 181.1rem;
+  background-color: #464242;
+  border-radius: 1rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-106-eAS {
+  width: 2.3rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 38.8rem;
+  top: 158rem;
+  background-color: #ffffff;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-109-mkr {
+  width: 2.3rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 38.8rem;
+  top: 183.2rem;
+  background-color: #ffffff;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-107-7Jv {
+  width: 2.3rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 68.9rem;
+  top: 158rem;
+  background-color: #ffffff;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .line-108-Sc6 {
+  width: 2.3rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 67.8rem;
+  top: 182.8rem;
+  background-color: #ffffff;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item--aTQ {
+  width: 5.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 25.4rem;
+  top: 160rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item--gWS {
+  width: 5.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 25.6rem;
+  top: 184.2rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item--b7c {
+  width: 5.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 78.9rem;
+  top: 184.7rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item--VTt {
+  width: 5.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 52.7rem;
+  top: 184.2rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item--c2i {
+  width: 5.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 79rem;
+  top: 160rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item--unW {
+  width: 5.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 51.9rem;
+  top: 159.9rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-382-dCi {
+  width: 48.9rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 49rem;
+  top: 120.8rem;
+  background-color: #464343;
+  border-radius: 1.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .rectangle-383-kYE {
+  width: 48.1rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 49rem;
+  top: 134.4rem;
+  background-color: #464343;
+  border-radius: 1.5rem;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item-0888888888-5qQ {
+  width: 31.9rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 56.3rem;
+  top: 136.5rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .item--aXG {
+  width: 31.5rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 56.9rem;
+  top: 122.9rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.toyota-fourtuner-Mtr .mobil-all-fPk .group-44-Gut {
+  width: 39.5rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 50.3rem;
+  top: 311.2rem;
+  font-size: 4.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #575757;
+}

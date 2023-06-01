@@ -1,0 +1,4163 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.mobil-special-stJ {
+  width: 100%;
+  height: 414.6rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #575757;
+}
+.mobil-special-stJ .rectangle-114-kDL {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.mobil-special-stJ .profile-4zi {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 122.2rem;
+  top: 5.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .group-8za {
+  width: 8.8rem;
+  height: 9.828rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.7742rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-113-Tmx {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.mobil-special-stJ .home-BT4 {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .group-38-Uh4 {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.mobil-special-stJ .group-38-Uh4 .group-37-Cd4 {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mobil-special-stJ .group-38-Uh4 .evira-unN {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobil-special-stJ .line-50-EJr {
+  width: 144rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.mobil-special-stJ .rectangle-126-9wc {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.mobil-special-stJ .ellipse-11-ssc {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-special-stJ .ellipse-12-C9C {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-special-stJ .ellipse-13-Wva {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-special-stJ .item-1-3fc {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-Z8A {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-3-s8r {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .line-51-NLW {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.mobil-special-stJ .line-52-Vvv {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.mobil-special-stJ .choose-a-car-SLN {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .make-a-deal-9Vg {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .booking-car-G4W {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-127-aL6 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .rectangle-129-Vhx {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .rectangle-128-pVL {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .rectangle-130-LyU {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .line-53-G6S {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .line-55-zHL {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .line-54-XYA {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .line-56-53t {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .rectangle-131-Qbx {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .rectangle-132-vqC {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .rectangle-133-rTx {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .line-57-a94 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .line-58-7Pt {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 346.5rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .booking-car-rMU {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .image-9-ZFt {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.mobil-special-stJ .image-10-V9Y {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.mobil-special-stJ .rectangle-134-1dg {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.mobil-special-stJ .rectangle-135-wXL {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.mobil-special-stJ .normal-UGN {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .all-new-avanza-Zoc {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp300500-day-5X4 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .special-z8E {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-116-q8r {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .select-Yox {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-65-TAE {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-mgi {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-66-6DC {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-otJ {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-6-LdL {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-3Xk {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .innova-reborn-Xxi {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .all-new-avanza-SJz {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .all-new-avanza-Y78 {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .all-new-avanza-eAA {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .all-new-avanza-MKU {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp439000-day-TtJ {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp300500-day-NkN {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp300500-day-sx2 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp300500-day-b7L {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp300500-day-uNv {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-136-D8i {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .rectangle-139-LDL {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .rectangle-142-rSa {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .rectangle-145-BDx {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .rectangle-148-JJa {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .select-2Ea {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .select-82i {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .select-2tn {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .select-MAN {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .select-rsp {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-137-mzn {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-140-6XG {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-143-cEi {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-146-Kev {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-149-2pE {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-jyY {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-fMQ {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-PYJ {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-XPc {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-FqQ {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-138-b8a {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-141-Vjk {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-144-1xz {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-147-Kyg {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-150-qSE {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-9xi {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .material-symbols-person-s82 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .material-symbols-person-PcA {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .material-symbols-person-Wgn {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .material-symbols-person-qj4 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-6-aAr {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-6-V2v {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-6-Q9t {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-6-usL {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-6-S6a {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-kNA {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-rg6 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-NPY {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-HWW {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-PpS {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .image-8-v3g {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.mobil-special-stJ .rectangle-151-qgS {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.mobil-special-stJ .profile-xm4 {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 122.2rem;
+  top: 5.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .group-sd8 {
+  width: 8.8rem;
+  height: 9.828rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.7742rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-152-omg {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.mobil-special-stJ .home-Wg6 {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .group-39-2PY {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.mobil-special-stJ .group-39-2PY .group-37-jYr {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mobil-special-stJ .group-39-2PY .evira-eQv {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobil-special-stJ .line-60-n1L {
+  width: 144rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.mobil-special-stJ .rectangle-153-htz {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.mobil-special-stJ .ellipse-14-2gN {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-special-stJ .ellipse-15-Mie {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-special-stJ .ellipse-16-6RL {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-special-stJ .item-1-RyQ {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-jz6 {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-3-rop {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .line-61-aUv {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.mobil-special-stJ .line-62-WNa {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.mobil-special-stJ .choose-a-car-T2v {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .make-a-deal-9RY {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .booking-car-42i {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-154-MnW {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .rectangle-155-5yQ {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .rectangle-156-DJv {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .rectangle-157-LuL {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .line-63-4qL {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .line-64-zU6 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .line-65-iut {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .line-66-Fev {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .rectangle-158-zcW {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .rectangle-159-uzN {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .rectangle-160-3Kt {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .line-67-MLa {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .line-68-tLW {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 346.5rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .booking-car-RbL {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .image-11-XeN {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.mobil-special-stJ .image-12-eyt {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.mobil-special-stJ .rectangle-161-moc {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.mobil-special-stJ .rectangle-162-Vjc {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.mobil-special-stJ .normal-2Dk {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .all-new-avanza-XwC {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp300500-day-qwt {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .special-Z7C {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-163-s7t {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .select-anz {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-164-HBc {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-zLv {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-165-7RY {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-DzN {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-6-Z2e {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-GBx {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .innova-reborn-Nkn {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .all-new-avanza-h2N {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .all-new-avanza-CUv {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .all-new-avanza-WEi {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .all-new-avanza-ozW {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp439000-day-8Wz {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp300500-day-38A {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp300500-day-Yai {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp300500-day-TSn {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp300500-day-mTU {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-166-5UA {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .rectangle-167-CYn {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .rectangle-168-XLA {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .rectangle-169-3pJ {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .rectangle-170-mVQ {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .select-6Xg {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .select-1Pk {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .select-iox {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .select-q7t {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .select-9PU {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-171-x62 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-172-fm8 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-173-ymp {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-174-HnW {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-175-QcE {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-vKg {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-dzn {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-ZNe {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-5rn {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-DTC {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-176-jRY {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-177-FPt {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-178-Mxi {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-179-5Nv {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-180-b6N {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-u74 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .material-symbols-person-RbC {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .material-symbols-person-xb8 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .material-symbols-person-sxz {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .material-symbols-person-btz {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-6-8e2 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-6-Suc {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-6-Yxe {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-6-fGa {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-6-Ngn {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-VFc {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-o1Q {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-Jir {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-CpE {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-vES {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .image-13-SCn {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.mobil-special-stJ .rectangle-181-Mae {
+  width: 144rem;
+  height: 415.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.mobil-special-stJ .profile-JEz {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 118.9rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .group-DMx {
+  width: 8.8rem;
+  height: 9.828rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.7742rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-182-X7k {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.mobil-special-stJ .home-SVc {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .group-40-ZKL {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.mobil-special-stJ .group-40-ZKL .group-37-VCz {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mobil-special-stJ .group-40-ZKL .evira-D8z {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobil-special-stJ .line-69-wan {
+  width: 144rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.mobil-special-stJ .rectangle-183-gHU {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.mobil-special-stJ .ellipse-17-bfL {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #887070;
+  border-radius: 4.5rem;
+}
+.mobil-special-stJ .ellipse-19-89U {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.mobil-special-stJ .item-1-eNi {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-3-9aN {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .line-70-rjg {
+  width: 83rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.4rem;
+  background-color: #000000;
+}
+.mobil-special-stJ .choose-a-car-zL6 {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .booking-car-6e2 {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-184-Ch4 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .rectangle-186-XDY {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .line-72-FfL {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .line-73-zN2 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .line-74-vWa {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .line-75-rv2 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .line-76-Pux {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .line-77-vut {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 346.5rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .line-78-4mC {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 389.7rem;
+  background-color: #323131;
+}
+.mobil-special-stJ .booking-car-nx6 {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.8rem;
+  top: 5.15rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-191-Vbc {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.mobil-special-stJ .rectangle-192-pdt {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 115rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.mobil-special-stJ .normal-9gA {
+  width: 11.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .lamborghini-huracan-lp-580-2-TB4 {
+  width: 43.1rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.mobil-special-stJ .rp25000000-day-kfx {
+  width: 40.9rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .special-riz {
+  width: 11.7rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-193-mLA {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .select-gi2 {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-194-Q8E {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-7YS {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-195-qUS {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-9k2 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-2-57t {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-zEr {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .pagani-huayra-pearl-2017-74a {
+  width: 39.7rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .honda-s2000r-oCJ {
+  width: 22.8rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .jaguar-xf-2023-i4N {
+  width: 24.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .ford-mustang-2019-gt-orW {
+  width: 35.4rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .porsche-911-gt2rs-iCn {
+  width: 29.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp62151000-day-DfL {
+  width: 38.8rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp3556000-day-vpe {
+  width: 35.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp5475500-day-qRp {
+  width: 37.7rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp1150000-day-k2z {
+  width: 36.4rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp23300500-day-rbp {
+  width: 39.6rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-196-AMc {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .rectangle-197-HBL {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .rectangle-198-cDc {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .rectangle-199-XLa {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .rectangle-200-FXU {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .select-NMC {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .select-sok {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .select-PXC {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .select-5up {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .select-o58 {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-201-6pv {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-202-d4A {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-203-XvE {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-204-37t {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-205-xEr {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-GmL {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-BtJ {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-Guk {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-PjU {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-jB4 {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-206-rWa {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-207-Zvn {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-208-swU {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-209-zFQ {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .rectangle-210-Vxr {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-cna {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .material-symbols-person-wpr {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .material-symbols-person-gGe {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .material-symbols-person-os4 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .material-symbols-person-XYA {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-2-rKY {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-xNa {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-4-4gW {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-AzS {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-t9k {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-oGi {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-JzA {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-RJ6 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-LR4 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-3qG {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .image-16-mWN {
+  width: 132.6rem;
+  height: 39.5rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.mobil-special-stJ .image-removebg-preview-2-1-1-HzW {
+  width: 45.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.3rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .image-removebg-preview-3-1-1-ohx {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.8rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .image-removebg-preview-4-1-1-ipv {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 187.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .image-removebg-preview-6-1-qee {
+  width: 45.5rem;
+  height: 26.1rem;
+  position: relative;
+  left: 11.6rem;
+  top: 226.2rem;
+  background-size: 123.648% 165.886%;
+  background-position: -3.8233rem -7.1804rem;
+  background-image: url('../assets/image-removebg-preview-6-1.png');
+  border-radius: 2rem;
+}
+.mobil-special-stJ .image-removebg-preview-7-1-1-WVt {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .image-removebg-preview-1-1-2UE {
+  width: 45.6rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.mobil-special-stJ .mercedez-benz-sl-kQE {
+  width: 28.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.4rem;
+  top: 355.9rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rp5775500-day-TZY {
+  width: 36.2rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 365.2rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-332-mKL {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 355.9rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.mobil-special-stJ .select-gx6 {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 357.7rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-333-CvS {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 375.1rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-KVG {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 375.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-334-FNv {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 368rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-Ycv {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 369.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-6-GJ2 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 369rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-aZc {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 375.8rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-337-HU2 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 375rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-CL6 {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 375.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-338-7xr {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 368rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-SES {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 369.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-6-mXc {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 369rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-g8n {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 375.8rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-341-azr {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 375rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-JR4 {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 375.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-342-2bx {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 368rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-vxE {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 369.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-6-4oY {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 369rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-P58 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 375.8rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-345-tna {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 375rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-cCn {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 375.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-346-Lea {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 368rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-eQN {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 369.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-6-yBk {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 369rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-grr {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 375.8rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-349-biv {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 375rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-Waz {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 375.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-350-eBQ {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 368rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-Mbc {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 369.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-6-sZx {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 369rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-z8n {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 375.8rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-353-HNn {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 375rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-Byx {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 375.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-354-X2E {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 368rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-db4 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 369.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-6-AL6 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 369rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-U5t {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 375.8rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-357-aei {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 375rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-JKp {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 375.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-358-d7C {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 368rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-YEA {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 369.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-6-GAA {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 369rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-yqG {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 375.8rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-361-hFU {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 375rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-11G {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 375.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-362-LJS {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 368rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-FRQ {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 369.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-6-Nkv {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 369rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-shg {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 375.8rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-365-z1c {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 375rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-tsg {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 375.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-366-cHt {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 368rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-Kxz {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 369.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-6-ri2 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 369rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-ACv {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 375.8rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-369-Gmk {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 375rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-Npn {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 375.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-370-Hwk {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 368rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-Pzn {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 369.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-6-KtS {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 369rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-du8 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 375.8rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-373-9ca {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 375rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-GBQ {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 375.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-374-nvS {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 368rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-hXc {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 369.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-6-RiW {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 369rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-LqU {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 375.8rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .rectangle-377-3jt {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 375rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .fa6-solid-suitcase-rolling-x6A {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 375.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .rectangle-378-UKQ {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 368rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.mobil-special-stJ .material-symbols-person-PBU {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 369.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobil-special-stJ .item-2-boL {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 369rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .item-2-6k6 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 375.8rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobil-special-stJ .image-removebg-preview-2-1-pAJ {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}

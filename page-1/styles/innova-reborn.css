@@ -1,0 +1,6145 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.innova-reborn-nXx {
+  width: 100%;
+  height: 334.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.innova-reborn-nXx .mobil-all-5mx {
+  width: 100%;
+  height: 387.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #2b2222;
+  border-bottom: dashed 0.6rem #323131;
+  box-sizing: border-box;
+}
+.innova-reborn-nXx .mobil-all-5mx .profile-xWJ {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 122.2rem;
+  top: 5.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-Ren {
+  width: 8.8rem;
+  height: 9.1761rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.5239rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-113-MHY {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .home-4hk {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-38-MRx {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-38-MRx .group-37-fSe {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-38-MRx .evira-mVg {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-50-JEi {
+  width: 143.9999rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-126-EPG {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-11-ZAe {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-12-Tmp {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-13-Ndt {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-1-tML {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-yta {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-3-5gi {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-51-z2z {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-52-hi6 {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.innova-reborn-nXx .mobil-all-5mx .choose-a-car-ET8 {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .make-a-deal-94J {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .booking-car-3vN {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-127-8wp {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-129-TjC {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-128-NrA {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-130-6nA {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-53-PFU {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-55-ujc {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-54-dfc {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-56-N7Q {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-131-HkA {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-132-CML {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-133-iaa {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-57-Eop {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .booking-car-xzi {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-9-sbt {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-10-BsU {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-134-JSJ {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-135-E54 {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .normal-M9g {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-rcE {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-ZFk {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .special-4TQ {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-116-AmL {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-5tJ {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-65-n22 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-UfY {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-66-oSv {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-7Ci {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-pcv {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-vvr {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .innova-reborn-qH8 {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-81L {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-p94 {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-uwC {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-DBC {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp439000-day-upi {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-Cop {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-7A6 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-DD8 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-i9t {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-136-tia {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-139-Qgv {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-142-XFk {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-145-SNi {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-148-Mka {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-5An {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-n5C {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-GWA {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-NZC {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-gJz {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-137-zKg {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-140-5rv {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-143-nmL {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-146-VQr {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-149-zcW {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-J7Q {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-pLe {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-YGe {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-GTY {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-Po4 {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-138-v2J {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-141-RDx {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-144-7ca {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-147-cJS {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-150-uoL {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-p9c {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-wEE {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-fAE {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-NaS {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-hMp {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-RYi {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-8CE {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-pKx {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-K1p {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-pjG {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-jLS {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-dwc {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-L5L {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-ni2 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-G7Q {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-8-BEN {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-151-W1k {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .profile-FEE {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 122.2rem;
+  top: 5.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-AEi {
+  width: 8.8rem;
+  height: 9.1761rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.5239rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-152-fxA {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .home-o2n {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-39-hdx {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-39-hdx .group-37-d1p {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-39-hdx .evira-Xst {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-60-fUJ {
+  width: 143.9999rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-153-oKc {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-14-7r6 {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-15-SdU {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-16-ydQ {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-1-i5C {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-1pz {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-3-vwx {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-61-2k6 {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-62-AbQ {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.innova-reborn-nXx .mobil-all-5mx .choose-a-car-hbL {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .make-a-deal-pAA {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .booking-car-uxJ {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-154-cri {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-155-we6 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-156-4yc {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-157-bTk {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-63-Kee {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-64-4cE {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-65-bs4 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-66-wR8 {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-158-fc2 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-159-PY2 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-160-KRg {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-67-3sU {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .booking-car-BTt {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-11-gvS {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-12-QbY {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-161-YBx {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-162-U5c {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .normal-bg2 {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-KM8 {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-Rux {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .special-vri {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-163-E6i {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-LQe {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-164-TEN {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-mF4 {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-165-62S {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-CbG {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-vnA {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-dwU {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .innova-reborn-MMg {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-f7U {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-MW6 {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-rhk {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-NRC {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp439000-day-HHG {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-zSa {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-WA2 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-cir {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-Xav {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-166-qrW {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-167-Adt {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-168-VRG {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-169-pCe {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-170-k6J {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-UHC {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-yUr {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-HEe {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-bWE {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-Wt6 {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-171-2bY {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-172-L6S {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-173-r4n {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-174-kvr {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-175-4wY {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-aut {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-iFQ {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-ShC {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-mUa {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-JUW {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-176-E7G {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-177-YNr {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-178-Fo4 {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-179-mmQ {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-180-62z {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-19x {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-LCE {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-Fpz {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-npv {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-uuY {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-3Vx {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-xN2 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-fGS {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-Nge {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-t9C {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-oGA {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-Jyc {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-pwx {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-vzz {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-eg6 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-13-MqQ {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-181-t4e {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .profile-piz {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 119.3rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-LBY {
+  width: 8.8rem;
+  height: 9.1761rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.5239rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-182-G5C {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .home-bNN {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-40-UBG {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-40-UBG .group-37-Pp2 {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-40-UBG .evira-unN {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-69-DYA {
+  width: 143.9999rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-183-7dY {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-17-p2A {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-18-6VU {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-19-Bmp {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-1-WZC {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-ccE {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-3-KWe {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-70-RZg {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-71-ZQz {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.innova-reborn-nXx .mobil-all-5mx .choose-a-car-ty4 {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .make-a-deal-Cyk {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .booking-car-udG {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-184-Qpv {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-185-jsC {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-186-ezA {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-187-yWe {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-72-ttW {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-73-dLJ {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-74-MXC {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-75-VNW {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-188-E5C {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-189-wkJ {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-190-sdx {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-76-oXc {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .booking-car-LnS {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.9rem;
+  top: 5.35rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-14-2vA {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-15-9zn {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-191-tBg {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-192-cNa {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .normal-97c {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 99.5rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-FgS {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-NFG {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .special-HNE {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-193-bdp {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-iiS {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-194-3Ev {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-YSa {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-195-4A2 {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-BEe {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-JaA {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-p2i {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .innova-reborn-Xhp {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-3gA {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-9z6 {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-s9Q {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-Xze {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp439000-day-QoY {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-gFG {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-98r {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-1Rx {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-Vc2 {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-196-1aN {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-197-jFU {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-198-DRY {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-199-vKx {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-200-eFx {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-yJE {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-tRC {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-CAz {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-7Hx {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-RZY {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-201-LAi {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-202-3av {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-203-9tr {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-204-UAS {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-205-PYJ {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-6xW {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-Rjt {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-ZLJ {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-UiA {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-1TC {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-206-w5x {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-207-eFG {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-208-MQa {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-209-s82 {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-210-NqU {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-HhY {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-pSa {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-wn6 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-5dQ {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-1GA {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-Tdx {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-NW2 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-5fL {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-ByG {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-JY6 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-1xJ {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-Ki6 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-EKG {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-Y54 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-TC2 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-16-xuU {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-211-gaa {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .profile-2PY {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 122.2rem;
+  top: 5.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-Xr6 {
+  width: 8.8rem;
+  height: 9.1761rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.5239rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-212-sQA {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .home-bqx {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-41-7ZQ {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-41-7ZQ .group-37-qEW {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-41-7ZQ .evira-Lwx {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-78-58r {
+  width: 143.9999rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-213-oae {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-20-jDQ {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-21-fMx {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-22-zf8 {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-1-Xf4 {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-dCJ {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-3-LsQ {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-79-FzN {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-80-zh4 {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.innova-reborn-nXx .mobil-all-5mx .choose-a-car-Xwt {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .make-a-deal-3fL {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .booking-car-Mg2 {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-214-Gnz {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-215-QPQ {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-216-Xiv {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-217-GAi {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-81-z6i {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-82-X6e {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-83-SjQ {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-84-Bgz {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-218-7qY {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-219-Ssp {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-220-mv6 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-85-hYr {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .booking-car-dxJ {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-17-wxz {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-18-UCE {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-221-C8E {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-222-7kz {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .normal-3Pk {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-YbQ {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-TCa {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .special-mUA {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-223-5ze {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-ove {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-224-7wL {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-2oQ {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-225-xSA {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-frN {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-PXU {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-6gn {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .innova-reborn-DFc {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-7rn {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-DQ2 {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-Kxr {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-qgJ {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp439000-day-9wt {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-ete {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-ZVp {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-UMt {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-bBc {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-226-W3g {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-227-2Gv {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-228-YWA {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-229-4jQ {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-230-ahk {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-Jdk {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-cuL {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-L4e {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-eb8 {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-xri {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-231-V5x {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-232-bPt {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-233-Jp6 {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-234-cZt {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-235-vaa {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-2dc {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-MQz {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-gCN {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-1VY {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-YVU {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-236-s1x {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-237-B2e {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-238-V3L {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-239-Bgr {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-240-6op {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-pE2 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-YA2 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-GLv {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-bPC {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-iyc {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-esG {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-Aai {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-5Sn {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-PCa {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-hDG {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-Cfp {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-7Xt {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-RHg {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-XrW {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-egE {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-19-Tta {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-241-nfx {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .profile-8Uv {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 122.2rem;
+  top: 5.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-SkW {
+  width: 8.8rem;
+  height: 9.1761rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.5239rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-242-P9x {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .home-K3c {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-42-EAa {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-42-EAa .group-37-9oL {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-42-EAa .evira-4fQ {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-88-bvE {
+  width: 143.9999rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-243-wjC {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-23-UUE {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-24-ZEn {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 67.5rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-25-g4W {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-1-bhG {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-hVQ {
+  width: 2.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 71.2rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-3-QPp {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-89-6XY {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.0983rem;
+  background-color: #000000;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-90-E7x {
+  width: 35.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 77.5rem;
+  top: 75.4rem;
+  background-color: #000000;
+}
+.innova-reborn-nXx .mobil-all-5mx .choose-a-car-YuL {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .make-a-deal-Fok {
+  width: 13.6rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 64.3rem;
+  top: 81.8rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .booking-car-mGJ {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-244-4mC {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-245-bFL {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 188rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-246-JfY {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 147.6rem;
+  background-color: #323131;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-247-2rS {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 225.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-91-kXY {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 140.9rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-92-UyL {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 219.2rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-93-pGW {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 179.6rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-94-wrv {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 257.9rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-248-5TL {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 270.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-249-CH4 {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 314.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-250-K6n {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 355.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-95-2mt {
+  width: 124.6rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 302.2rem;
+  background-color: #323131;
+}
+.innova-reborn-nXx .mobil-all-5mx .booking-car-N54 {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.1rem;
+  top: 5.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-20-fpr {
+  width: 45.2rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 109.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-21-zs8 {
+  width: 44.7rem;
+  height: 25.8rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 147.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-251-vVt {
+  width: 42.5rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 93.2rem;
+  top: 90.7rem;
+  background-color: #474242;
+  border-radius: 1.7rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-252-FYA {
+  width: 18.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 95.4rem;
+  top: 92.3rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .normal-nHC {
+  width: 11.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-62z {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-ngW {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 118.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .special-Vav {
+  width: 11.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 93.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-253-QSz {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 108.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-vRL {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.8rem;
+  top: 110.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-254-2UN {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 127.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-Xvv {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 128.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-255-Frv {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 120.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-Zsc {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 121.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-6Mk {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 121.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-1Dp {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 128.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .innova-reborn-i8E {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 148.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-dFC {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 187.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-vzz {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 227.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-3Zp {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 271.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .all-new-avanza-MqQ {
+  width: 24.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 314.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp439000-day-4zi {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 157.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-ybt {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 197.1rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-Hca {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 236.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-12n {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62rem;
+  top: 280.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp300500-day-v9k {
+  width: 34.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 323.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-256-R6W {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 104.8rem;
+  top: 147.4rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-257-wae {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 186.8rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-258-49U {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.4rem;
+  top: 226.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-259-nLN {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 106rem;
+  top: 270.2rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-260-WXG {
+  width: 30.1rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 314.5rem;
+  border: solid 0.1rem #474343;
+  box-sizing: border-box;
+  background-color: #2c2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-EiA {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114rem;
+  top: 149.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-MXt {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.3rem;
+  top: 188.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-UMc {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 114.6rem;
+  top: 228.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-avS {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.2rem;
+  top: 272.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .select-JbY {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 316.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-261-RAN {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 166.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-262-XjC {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 205.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-263-EtW {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 245.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-264-A1U {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 289.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-265-5PL {
+  width: 10.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 333.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-Pup {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 167.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-XFL {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 125.7rem;
+  top: 206.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-TPt {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126rem;
+  top: 246.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-PHY {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 290.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .fa6-solid-suitcase-rolling-KBC {
+  width: 3.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 126.2rem;
+  top: 334.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-266-EZ4 {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 159.5rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-267-MNn {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 198.9rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-268-sc2 {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125rem;
+  top: 238.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-269-PqG {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.6rem;
+  top: 282.3rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-270-JhL {
+  width: 10.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 125.2rem;
+  top: 326.6rem;
+  border: solid 0.1rem #575757;
+  box-sizing: border-box;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-oPC {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.4167rem;
+  top: 160.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-HpA {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 125.7167rem;
+  top: 200.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-bK4 {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.0167rem;
+  top: 239.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-Wwp {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.6167rem;
+  top: 283.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .material-symbols-person-qjC {
+  width: 4.0667rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 126.2167rem;
+  top: 327.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-Zv6 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 160.5rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-57k {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 199.9rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-zEi {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 239.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-uMg {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 283.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-6-RL2 {
+  width: 2.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 327.6rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-LSz {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 167.3rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-FK4 {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.6rem;
+  top: 206.7rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-mHQ {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 131.9rem;
+  top: 246.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-53C {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 290.1rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-2-nCW {
+  width: 2.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 132.1rem;
+  top: 334.4rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-22-hKU {
+  width: 132.6rem;
+  height: 46.6rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-271-RFU {
+  width: 144rem;
+  height: 404.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2b2222;
+}
+.innova-reborn-nXx .mobil-all-5mx .profile-koY {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 119.3rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-s7U {
+  width: 8.8rem;
+  height: 9.1761rem;
+  position: absolute;
+  left: 133rem;
+  top: 3.5239rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-272-CfY {
+  width: 20.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 81.7rem;
+  top: 4.5rem;
+  background-color: #5d8671;
+  border-radius: 2.3rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .home-8JJ {
+  width: 6.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.8rem;
+  top: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-43-3RG {
+  width: 16.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.8rem;
+  display: flex;
+  align-items: center;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-43-3RG .group-37-mcA {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 2.7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-43-3RG .evira-HaW {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-97-paS {
+  width: 143.9999rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-273-ZY2 {
+  width: 132.4rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 68.2rem;
+  background-color: #323131;
+  border-radius: 3rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-26-6H4 {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 71.6rem;
+  background-color: #312828;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .ellipse-28-DMg {
+  width: 9rem;
+  height: 9rem;
+  position: absolute;
+  left: 114.2rem;
+  top: 71.6rem;
+  background-color: #575757;
+  border-radius: 4.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-1-LSJ {
+  width: 1.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 74.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-3-35p {
+  width: 2.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 117.4rem;
+  top: 73.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-98-kW2 {
+  width: 84rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 76.4rem;
+  background-color: #000000;
+}
+.innova-reborn-nXx .mobil-all-5mx .choose-a-car-VCi {
+  width: 15.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 81.9rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .booking-car-QKg {
+  width: 13.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 111rem;
+  top: 81.7rem;
+  font-size: 2.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .booking-car-v38 {
+  width: 14.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.9rem;
+  top: 5.15rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-25-2M4 {
+  width: 132.6rem;
+  height: 37.9rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 24.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.8rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-379-9ga {
+  width: 130.4rem;
+  height: 104.1rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 96.9rem;
+  background-color: #323131;
+  border-radius: 4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-384-ssU {
+  width: 130.4rem;
+  height: 86.8rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 207.6rem;
+  background-color: #323131;
+  border-radius: 4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .image-23-QF8 {
+  width: 87.8rem;
+  height: 45.2rem;
+  position: absolute;
+  left: 17.1rem;
+  top: 214.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .innova-reborn-7vE {
+  width: 33.8rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 264.5rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rp439000-day-DyG {
+  width: 55.2rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 49rem;
+  top: 277.7rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .harga--YEr {
+  width: 22.1rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 19rem;
+  top: 278.1rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-48-3SW {
+  box-sizing: border-box;
+  padding: 1.5rem 0rem 0.6rem 0rem;
+  width: 19.5rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 109.6rem;
+  top: 218.3rem;
+  border: solid 0.1rem #575757;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-48-3SW .group-45-kLv {
+  box-sizing: border-box;
+  padding: 0.7rem 0rem 0.9rem 1.7rem;
+  width: 17rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-48-3SW .group-45-kLv .material-symbols-person-GaA {
+  margin: 0.2rem 4.1rem 0rem 0rem;
+  width: 6.8rem;
+  height: 6.2667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-48-3SW .group-45-kLv .item-6-Nt6 {
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-47-5Gi {
+  box-sizing: border-box;
+  padding: 1.8rem 2.809rem 0.3rem 2.3rem;
+  width: 19.5rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 108.9rem;
+  top: 241.1rem;
+  border: solid 0.1rem #575757;
+  background-color: #2c2222;
+  border-radius: 0.4rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-47-5Gi .group-46-B4r {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-47-5Gi .group-46-B4r .fa6-solid-suitcase-rolling-Kwk {
+  margin-right: 4.8838rem;
+  width: 5.4069rem;
+  height: 6.7907rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-47-5Gi .group-46-B4r .item-2-TYA {
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.innova-reborn-nXx .mobil-all-5mx .masukan-keterangan-MtS {
+  width: 66.3rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 16.4rem;
+  top: 102.9rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .nama-4nr {
+  width: 13.5rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 19.2rem;
+  top: 121.4rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .nama-mobil--Bca {
+  width: 30.2rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 18rem;
+  top: 264.8rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .nomor-hp-tWz {
+  width: 23.5rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 19.1rem;
+  top: 135.4rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .tanggal-pengambilan-CXg {
+  width: 50.5rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 19.1rem;
+  top: 147.9rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .tanggal-pengembalian-78r {
+  width: 53.4rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 19.1rem;
+  top: 172rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-380-DSn {
+  width: 73.6rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 20.1rem;
+  top: 156.6rem;
+  background-color: #464242;
+  border-radius: 1rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-381-jvv {
+  width: 73.6rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 20.1rem;
+  top: 181.1rem;
+  background-color: #464242;
+  border-radius: 1rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-106-GAA {
+  width: 2.3rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 38.8rem;
+  top: 158rem;
+  background-color: #ffffff;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-109-biE {
+  width: 2.3rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 38.8rem;
+  top: 183.2rem;
+  background-color: #ffffff;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-107-w1Q {
+  width: 2.3rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 68.9rem;
+  top: 158rem;
+  background-color: #ffffff;
+}
+.innova-reborn-nXx .mobil-all-5mx .line-108-4bp {
+  width: 2.3rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 67.8rem;
+  top: 182.8rem;
+  background-color: #ffffff;
+}
+.innova-reborn-nXx .mobil-all-5mx .item--Ptz {
+  width: 5.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 25.4rem;
+  top: 160rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item--uMY {
+  width: 5.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 25.6rem;
+  top: 184.2rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item--pDc {
+  width: 5.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 78.9rem;
+  top: 184.7rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item--j5g {
+  width: 5.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 52.7rem;
+  top: 184.2rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item--SEz {
+  width: 5.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 79rem;
+  top: 160rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item--9fC {
+  width: 5.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 51.9rem;
+  top: 159.9rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-382-Fy8 {
+  width: 48.9rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 49rem;
+  top: 120.8rem;
+  background-color: #464343;
+  border-radius: 1.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .rectangle-383-C7g {
+  width: 48.1rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 49rem;
+  top: 134.4rem;
+  background-color: #464343;
+  border-radius: 1.5rem;
+}
+.innova-reborn-nXx .mobil-all-5mx .item-0888888888-7VY {
+  width: 31.9rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 56.3rem;
+  top: 136.5rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .item--pPx {
+  width: 31.5rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 56.9rem;
+  top: 122.9rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.innova-reborn-nXx .mobil-all-5mx .group-44-X3U {
+  width: 39.5rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 50.3rem;
+  top: 311.2rem;
+  font-size: 4.8rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #575757;
+}
